@@ -1,0 +1,6 @@
+c:\users\csanjose\documents\visual studio 2017\Projects\CheckBeeOCRSubscriber\CheckBee.Messages\bin\Debug\netstandard1.6\CheckBee.Messages.deps.json
+c:\users\csanjose\documents\visual studio 2017\Projects\CheckBeeOCRSubscriber\CheckBee.Messages\bin\Debug\netstandard1.6\CheckBee.Messages.dll
+c:\users\csanjose\documents\visual studio 2017\Projects\CheckBeeOCRSubscriber\CheckBee.Messages\bin\Debug\netstandard1.6\CheckBee.Messages.pdb
+c:\users\csanjose\documents\visual studio 2017\Projects\CheckBeeOCRSubscriber\CheckBee.Messages\obj\Debug\netstandard1.6\CheckBee.Messages.AssemblyInfo.cs
+c:\users\csanjose\documents\visual studio 2017\Projects\CheckBeeOCRSubscriber\CheckBee.Messages\obj\Debug\netstandard1.6\CheckBee.Messages.dll
+c:\users\csanjose\documents\visual studio 2017\Projects\CheckBeeOCRSubscriber\CheckBee.Messages\obj\Debug\netstandard1.6\CheckBee.Messages.pdb
